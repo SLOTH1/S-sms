@@ -14,7 +14,7 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-git clone https://github.com/SLOTH1/S-smsth
+git clone https://github.com/SLOTH1/S-sms/tree/main
 cd S-sms
 ls
 python Run.py
