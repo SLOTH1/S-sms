@@ -1,4 +1,3 @@
-# S-smsth
 โครงการนี้สร้างขึ้นโดยชิโด้
 ใช้สำหรับ SPAM SMS THAILAND🇹🇭
 <p align="center">
@@ -23,7 +22,7 @@ python Run.py
 CTRL+C วรรกเพื่อจบโครงการ
 ```
 <div align="center">
-  <img src="Data">
+  <img src="https://github.com/SLOTH1/S-sms/commit/f615c82dd062e8a73a3b49ce721b41b69a9aa55d#commitcomment-137986035">
   <br>
   <br>
 
