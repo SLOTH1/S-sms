@@ -23,6 +23,10 @@ CTRL+C วรรกเพื่อจบโครงการ
 ```
 <div align="center">
   <img src="Screenshot_20240129-180419.jpg">
+  <img src="Screenshot_20240129-180424.jpg">
+  <img src="Screenshot_20240129-180426.jpg">
+  <img src="Screenshot_20240129-180438.jpg">
+  
   <br>
   <br>
 
